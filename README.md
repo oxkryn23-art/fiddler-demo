@@ -30,12 +30,3 @@ Tech Stack
 Python (Flask)
 HTML / CSS / JavaScript
 In-memory storage
-Project Structure
-fiddler-demo/
-├── server.py
-├── requirements.txt
-├── README.md
-└── public/
-    ├── index.html
-    ├── style.css
-    └── app.js
