@@ -1,4 +1,4 @@
-Task Manager
+ask Manager
 
 Simple REST API with a basic web interface for managing tasks. Built with Flask and vanilla JavaScript.
 
